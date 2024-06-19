@@ -77,6 +77,10 @@ pip install -r requirements.txt
     <li>Use Power BI Desktop to create the dashboard based on the mock-up.</li>
     <li>Generate and document additional insights.</li>
   </ol>
+  <br>
+  <br>
+
+  <img src="https://github.com/fahad648/AtliQ-Grands-Data-Analytics/blob/master/HOTEL%20MANAGEMENT.PNG" alt="Project Image">
 
   <h2>Contributing</h2>
   <p>Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your contributions align with the project objectives and improve the overall quality of the analysis.</p>
