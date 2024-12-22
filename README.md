@@ -82,6 +82,7 @@ pip install -r requirements.txt
 
   <img src="https://github.com/fahad648/AtliQ-Grands-Data-Analytics/blob/master/HOTEL%20MANAGEMENT.PNG" alt="Project Image">
 
+  <p>You can view this dashboard on (make sure to sign in ) :https://app.powerbi.com/links/fBp7ksgT10?ctid=dafff7d0-b7a7-4d5d-8705-06ac04774b74&pbi_source=linkShare</p>
   <h2>Contributing</h2>
   <p>Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your contributions align with the project objectives and improve the overall quality of the analysis.</p>
 
